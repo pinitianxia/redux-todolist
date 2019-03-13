@@ -9,7 +9,7 @@ $ yarn
 
 $ yarn start
 
-# 技术
+## 技术
 
 redux
 
